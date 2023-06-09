@@ -22,6 +22,7 @@
   padding: 20px;
   width: 200px;
   height: auto;
+  background-color: white;
 }
 
 .friendAvatar {
@@ -39,7 +40,7 @@
   width: 10px;
   height: 10px;
   border-radius: 50%;
-  margin-left: 10px;
+  margin-right: 10px;
 }
 
 .friendStatusDotOnline {
